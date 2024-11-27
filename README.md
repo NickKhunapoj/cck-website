@@ -31,7 +31,7 @@ The Computer Club website was created as a platform to publicise the club's acti
 - Show current club announcements.
 - Show past and current activities.
 - Providing about us for more club info.
-- Implemenmt admin priviledges (CRUD Operations)
+- Implement admin priviledges (CRUD Operations)
 
 ## Website Previews
 ![screencapture-cck-vercel-app-2024-11-27-17_54_16](https://github.com/user-attachments/assets/3db1a229-e7b1-4026-897f-e6c7a3f493cf)
