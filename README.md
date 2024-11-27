@@ -43,6 +43,6 @@ The Computer Club website was created as a platform to publicise the club's acti
 ## My contributions
 - Co-designed the website using Figma, focusing on the PC layout.
 - Developed frontend components commonly used across web pages.
-- Built the frontend for the home and about pages, adhering to the web design.
+- Built the frontend for the home and about pages according to the web design.
 - Created a simple frontend for the admin portal, including functionality for adding, editing, and deleting announcements and activities, as well as managing admins with a super admin account.
 
