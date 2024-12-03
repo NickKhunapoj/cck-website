@@ -37,9 +37,6 @@ The Computer Club website was created as a platform to publicise the club's acti
 ![screencapture-cck-vercel-app-2024-11-27-17_54_16](https://github.com/user-attachments/assets/3db1a229-e7b1-4026-897f-e6c7a3f493cf)
 *Home page of the website*
 
-![screencapture-cck-vercel-app-about-2024-11-27-17_54_55](https://github.com/user-attachments/assets/372a1a5c-a262-423d-ae68-1e7ca47d355b)
-*About page of the website*
-
 ## My contributions
 - Co-designed the website using Figma, focusing on the PC layout.
 - Developed frontend components commonly used across web pages.
